@@ -5,7 +5,10 @@ and when a follower blinks, there is a probability that the adjacent followers w
 The former is called Imam Probability. The variable that controls how much Imam probability decreaese with each row is called Row Multiplier.
 The latter is called follower Probability.
 
-This project was inspired by Muslim prayer and synconization of sound during this prayer. 
+The two plots that could be turned on both have Blink groups on the y-axis, and one has Imam probabilty on the x-axis , while the other 
+has (Row multiplier * Follower Probability) on the x-axis. Syncronization would occur when the number of Blink groups is equal to 1. 
+
+This project was inspired by Muslim prayer and Syncronization of sound during this prayer, but the model could be applicable to other areas.
 
 
 
