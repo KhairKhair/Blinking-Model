@@ -12,5 +12,6 @@ In the model, A red rectangle is a follower that is blinking. A rectangle turns 
 
 This project was inspired by Muslim prayer and Syncronization of sound during this prayer, but the model could be applicable to other areas.
 
+Note: pygame and pygame_widgets need to be installed for the code to run.
 
 
